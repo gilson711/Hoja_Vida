@@ -1,0 +1,66 @@
+.Padre{
+    display: flex;
+    background: beige;
+    padding: 5px 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.Padre2{
+    display: flex;
+    background: brown;;
+    padding: 5px 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+.Padre3{
+    display: flex;
+    background:beige;
+    padding: 5px 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.hijo{
+ 
+    margin-right: 400px;
+}
+.Titulo{
+    background: paleturquoise;
+    color: cornflowerblue;
+    font-size: 40px;
+    padding: 5px 0px;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.Tema1{
+    color: blue;
+    font-size: 25px;
+    background: brown;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.Tema2{
+    flex-direction: row;
+    font-size: 20px;
+    color: rgb(54, 44, 54);
+}
+.Tema3{
+    color: blue;
+    font-size: 25px;
+    background: brown;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.Imagen{
+    width: 200px;
+    height: 200px;
+}
+
